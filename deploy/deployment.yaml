@@ -132,7 +132,7 @@ metadata:
   name: wordpress
 spec:
   rules:
-  - host: wordpress.devops.34.95.176.140.xip.io
+  - host: wordpress.devops.35.199.107.154.xip.io
     http:
       paths:
       - backend:
